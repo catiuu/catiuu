@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Catiussia Nascimento
 
 
-- 🔭 Desenvolvedora de Software Full Stack em formação.
+- 🔭 Desenvolvedora de Software Full Stack
 - 😄 Pronomes: ela/dela
 
 <div align="center">
